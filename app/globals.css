@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.button-46 {
+  font-family: 'Inter', sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
